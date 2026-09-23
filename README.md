@@ -2,7 +2,7 @@
 Zepto AI Capstone Project
 ## Module 2 – EDA, Modeling, Evaluation and Prediction
 
-In this module, exploratory data analysis and machine learning modeling were performed on the dataset.
+In this module, exploratory data analysis and machine learning modeling were performed on the Titanic dataset.
 
 The data was prepared by handling missing values and separating numerical and categorical features. A preprocessing pipeline was created using imputation, scaling, and one-hot encoding.
 
