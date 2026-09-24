@@ -22,3 +22,18 @@ Overall, the modeling workflow demonstrates the complete process from data prepr
 - Performed Fare Analysis and Random Forest Feature Importance analysis.
 - Saved the optimized Random Forest model using Joblib.
 - Successfully loaded the saved Joblib model and generated test predictions.
+
+
+
+
+
+## Module 3 – GenAI Support Assistant
+
+- Built a Zepto Support Assistant using RAG (Retrieval-Augmented Generation).
+- Used Sentence Transformers for embeddings.
+- Stored and retrieved policy documents using ChromaDB.
+- Implemented workflow using LangGraph.
+- Added policy-based question answering with source retrieval.
+- Created a FastAPI endpoint for the support assistant.
+- Tested the API successfully using Swagger UI.
+- Verified the refund-policy query and received a grounded response from the policy documents.
