@@ -37,3 +37,4 @@ Overall, the modeling workflow demonstrates the complete process from data prepr
 - Created a FastAPI endpoint for the support assistant.
 - Tested the API successfully using Swagger UI.
 - Verified the refund-policy query and received a grounded response from the policy documents.
+- Containerized the Support Assistant API using Docker and successfully verified it on port 8000.
