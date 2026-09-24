@@ -1,5 +1,16 @@
 # zepto-ai-capstone
 Zepto AI Capstone Project
+## Module 1 – Data Collection, Cleaning and SQL Analysis
+
+- Scraped book data automatically using Python and BeautifulSoup.
+- Collected book details including title, price, rating, availability, and category.
+- Cleaned and prepared the collected dataset using Pandas.
+- Stored the cleaned data in a SQLite database.
+- Performed SQL queries and analysis on the book data.
+- Used Pandas `read_sql()` to retrieve and analyze database results.
+- Completed the end-to-end data pipeline from web scraping to SQL analysis.
+
+
 ## Module 2 – EDA, Modeling, Evaluation and Prediction
 
 In this module, exploratory data analysis and machine learning modeling were performed on the Titanic dataset.
